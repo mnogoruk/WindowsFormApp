@@ -1,0 +1,15 @@
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\coolb\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\coolb\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\coolb\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.SizeForm.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.InputForm.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.ReverseForm.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.CalcForm.resources
+C:\Users\coolb\source\repos\Lab4\Lab4\obj\Debug\Lab4.AboutForm.resources
